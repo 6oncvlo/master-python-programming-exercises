@@ -1,0 +1,5 @@
+ln=str(input())
+l=ln.split(",")
+k=tuple(l)
+print(l)
+print(k)
